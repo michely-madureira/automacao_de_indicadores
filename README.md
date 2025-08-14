@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# automacao_de_indicadores
-=======
 # 🛠️ Automação de Indicadores – OnePage para Lojas
 
 ## 📌 Sobre o Projeto
