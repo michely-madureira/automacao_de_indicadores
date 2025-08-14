@@ -82,7 +82,9 @@ A diretoria recebe:
 4. Execute as células do notebook **na ordem**.
 5. Observe a mágica acontecer ✨: os OnePages serão gerados, os e-mails enviados e os backups organizados automaticamente.
 
-📜 Licença
+---
+
+## 📜 Licença
 Este projeto é de uso livre para fins educacionais e pode ser adaptado para diferentes realidades empresariais.
 
 ---
