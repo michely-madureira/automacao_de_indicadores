@@ -29,6 +29,7 @@ Todas as manhãs, a equipe de análise prepara e envia o **OnePage** de cada loj
 - **Vendas.xlsx** → Registro de vendas de **todas as lojas** (cada gerente recebe apenas os dados da própria loja).
 - **Lojas.csv** → Lista com o nome de todas as lojas.
 - **Saída** → Planilhas geradas para cada loja, salvas em sua pasta específica com **data no nome** para manter histórico.
+- **Observaçao** → Para testar o código, inicialmente a pasta "Bakup Arquivos Lojas" deve estar vazia. 
 
 ---
 
