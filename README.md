@@ -77,12 +77,10 @@ A diretoria recebe:
 
 ## 🚀 Como Executar
 1. Clone o repositório.
-2. Adicione os arquivos **Emails.xlsx**, **Vendas.xlsx** e **Lojas.csv** à pasta raiz.
-3. Configure suas credenciais de e-mail no script.
-4. Execute o arquivo principal:
-   ```bash
-   python main.py
-Veja a mágica acontecer ✨.
+2. Adicione os arquivos **Emails.xlsx**, **Vendas.xlsx** e **Lojas.csv** à mesma pasta do notebook.
+3. Abra o **Jupyter Notebook** chamado `Automacao de Processo.ipynb`.
+4. Execute as células do notebook **na ordem**.
+5. Observe a mágica acontecer ✨: os OnePages serão gerados, os e-mails enviados e os backups organizados automaticamente.
 
 📜 Licença
 Este projeto é de uso livre para fins educacionais e pode ser adaptado para diferentes realidades empresariais.
