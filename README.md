@@ -82,4 +82,4 @@ Veja a mágica acontecer ✨.
 Este projeto é de uso livre para fins educacionais e pode ser adaptado para diferentes realidades empresariais.
 ---
 💌 Automatizar não é só ganhar tempo. É garantir que o tempo seja usado para o que realmente importa.
->>>>>>> a478f22 (Adiciona README ao projeto)
+
