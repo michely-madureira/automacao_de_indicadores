@@ -48,15 +48,21 @@ Todas as manhãs, a equipe de análise prepara e envia o **OnePage** de cada loj
 ---
 
 ## 📤 Envio de E-mails
-- **Para cada gerente:**  
-  - OnePage no corpo do e-mail.  
-  - Planilha com dados da própria loja em anexo.  
 
-- **Para a diretoria:**  
-  - Dois rankings (dia e ano) em anexo.  
-  - Destaque no corpo do e-mail para:  
-    - Melhor e pior loja do dia.  
-    - Melhor e pior loja do ano.  
+### Gerentes de Loja
+Cada gerente recebe:
+- O **OnePage** da sua própria loja **no corpo do e-mail**.  
+- Uma **planilha em anexo** contendo apenas os dados da sua loja.  
+> ⚠️ Importante: **não é enviado informações de outras lojas**.
+
+### Diretoria
+A diretoria recebe:
+- **Dois rankings em anexo**:  
+  1. Ranking diário das lojas.  
+  2. Ranking anual das lojas.  
+- No corpo do e-mail, destaques sobre:  
+  - Melhor e pior loja do dia.  
+  - Melhor e pior loja do ano.
 
 ---
 
